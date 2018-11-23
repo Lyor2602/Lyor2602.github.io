@@ -1,14 +1,6 @@
-html {
-
-    cursor: url('crosshair.png'), auto;
-
-    height: 100%;
-
-}
-
 body {
 
-    background: url('pond.jpg') no-repeat;
+    background: url('city.jpg') no-repeat;
 
     background-size: cover;
 
