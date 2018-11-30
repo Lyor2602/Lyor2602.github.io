@@ -1,0 +1,37 @@
+body {
+
+    background: url('daddy.gif');
+
+    background-size: cover;
+
+    overflow: auto;
+
+}
+
+pre {
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	color: white;
+	font-size: 200%;
+}
+
+a {
+	color: white;
+	font-size: 200%;
+	border-bottom: 6px double white;
+}
+
+h1 { 
+	color: white;
+	text-align: center;
+	
+}
+
+p {
+	color: white;
+	font-size: 180%;
+}
+
+span {
+	font-size: 200%
+}
